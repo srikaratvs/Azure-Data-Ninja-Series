@@ -63,18 +63,6 @@ For the remainder of this guide, the following terms will be used for various AS
 
 **Complete the [lab setup instructions](https://github.com/solliancenet/microsoft-data-engineering-ilt-deploy/blob/main/setup/04/README.md)** for this module.
 
-Note, the following modules share this same environment:
-
-- [Module 4](labs/04/README.md)
-- [Module 5](labs/05/README.md)
-- [Module 7](labs/07/README.md)
-- [Module 8](labs/08/README.md)
-- [Module 9](labs/09/README.md)
-- [Module 10](labs/10/README.md)
-- [Module 11](labs/11/README.md)
-- [Module 12](labs/12/README.md)
-- [Module](labs/13/README.md)
-- [Module 16](labs/16/README.md)
 
 ## Exercise 0: Start the dedicated SQL pool
 
